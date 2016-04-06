@@ -1,5 +1,5 @@
 # kaggle-whats-cooking
-Solution for kaggle whats-cooking problem based on random forest classifier algorithm
+Solution for [Kaggle whats-cooking problem](https://www.kaggle.com/c/whats-cooking) based on random forest classifier algorithm
 
 ## Usage
 ### Requirements installation
