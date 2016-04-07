@@ -14,7 +14,7 @@ def _create_model():
 
 
 def _normalize_ingredient(ingredient):
-    return re.sub(r'\([^)]*\)', '', ingredient).lower()
+    return " ".join(re.sub(r'\([^)]*\)', '', ingredient).lower().split())
 
 
 def _train_model(model, train_df):
