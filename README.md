@@ -26,4 +26,4 @@ python main.py evaluate -t <train data file> -e <data to run model on> -o <outpu
 ```
 
 ## Results
-This solution was tested on datasets provided by Kaggle, so they can be used for testing this algorithm. Kaggle scored this solution with 0.72938 points.
+This solution was tested on datasets provided by Kaggle, so they can be used for testing this algorithm. Kaggle scored this solution with 0.73009 points.
